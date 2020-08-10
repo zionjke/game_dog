@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/game_dog/static/css/main.8d96832b.chunk.css",
+    "main.css": "/game_dog/static/css/main.a4147567.chunk.css",
     "main.js": "/game_dog/static/js/main.a17bc01b.chunk.js",
     "main.js.map": "/game_dog/static/js/main.a17bc01b.chunk.js.map",
     "runtime-main.js": "/game_dog/static/js/runtime-main.5e99f4e1.js",
@@ -8,9 +8,9 @@
     "static/js/2.c0958cef.chunk.js": "/game_dog/static/js/2.c0958cef.chunk.js",
     "static/js/2.c0958cef.chunk.js.map": "/game_dog/static/js/2.c0958cef.chunk.js.map",
     "index.html": "/game_dog/index.html",
-    "precache-manifest.5b4b29d2e56389415e12b079b747c109.js": "/game_dog/precache-manifest.5b4b29d2e56389415e12b079b747c109.js",
+    "precache-manifest.eb56b4724710977ef2ba86bcb930cbb5.js": "/game_dog/precache-manifest.eb56b4724710977ef2ba86bcb930cbb5.js",
     "service-worker.js": "/game_dog/service-worker.js",
-    "static/css/main.8d96832b.chunk.css.map": "/game_dog/static/css/main.8d96832b.chunk.css.map",
+    "static/css/main.a4147567.chunk.css.map": "/game_dog/static/css/main.a4147567.chunk.css.map",
     "static/js/2.c0958cef.chunk.js.LICENSE.txt": "/game_dog/static/js/2.c0958cef.chunk.js.LICENSE.txt",
     "static/media/dog.mp3": "/game_dog/static/media/dog.ba5debab.mp3",
     "static/media/index.css": "/game_dog/static/media/duck-hunt-bg.de440e67.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.5e99f4e1.js",
     "static/js/2.c0958cef.chunk.js",
-    "static/css/main.8d96832b.chunk.css",
+    "static/css/main.a4147567.chunk.css",
     "static/js/main.a17bc01b.chunk.js"
   ]
 }
