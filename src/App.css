@@ -1,14 +1,25 @@
+.App {
+}
+
 .counter {
+  font-weight: bold;
+  font-size: 24px;
+  font-family: Constantia;
+  color: red;
+  top: -95px;
+  right: -578px;
+  position: absolute;
   text-align: center;
 }
 
+
 .wrapper {
+  position: relative;
   width: 170px;
   margin: 100px auto 10px auto;
 }
 
 .item {
-  border: 1px solid grey;
   border-radius: 50%;
   width: 50px;
   height: 50px;
@@ -26,3 +37,10 @@
 .show {
   visibility: visible;
 }
+
+.logo {
+  width: 50%;
+  height: 50%;
+  margin: 10px auto;
+}
+

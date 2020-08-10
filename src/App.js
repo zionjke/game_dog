@@ -6,10 +6,10 @@ import Item from "./Item";
 class App extends React.Component {
 
     state = {
-        item: [0,1, 2, 3, 4, 5, 6, 7, 8],
+        item: [0, 1, 2, 3, 4, 5, 6, 7, 8],
         counter: 0,
         randomIndex: 0
-    }
+    };
 
     audio = new Audio(dogaudio)
 
@@ -29,19 +29,19 @@ class App extends React.Component {
             this.setState({
                 randomIndex: this.getRandomImageIndex()
             })
-        },1000)
+        }, 1000)
     }
 
 
     render = () => {
 
-        let itemList = this.state.item.map ((item,index) => {
+        let itemList = this.state.item.map((item, index) => {
             if (index === this.state.randomIndex) {
-              return  <Item key={index} onClick={this.onClickCounter} className="photo show"/>
+                return <Item key={index} onClick={this.onClickCounter} className="photo show"/>
             } else {
-             return   <Item key={index}  className="photo"/>
+                return <Item key={index} className="photo"/>
             }
-        })
+        });
 
         return (
             <div className="App">

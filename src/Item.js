@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css'
-import dog from './dog.jpg'
+import duck from './assets/duck1.gif'
 
 class Item extends React.Component {
 
@@ -10,7 +10,7 @@ class Item extends React.Component {
         <div className="item">
             <img onClick={this.props.onClick}
                  className={this.props.className}
-                 src={dog}
+                 src={duck}
                  alt="dog"/>
         </div>
     );
