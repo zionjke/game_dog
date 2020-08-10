@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/game/static/css/main.46f521dc.chunk.css",
-    "main.js": "/game/static/js/main.e292a857.chunk.js",
-    "main.js.map": "/game/static/js/main.e292a857.chunk.js.map",
-    "runtime-main.js": "/game/static/js/runtime-main.f1ecc9ea.js",
-    "runtime-main.js.map": "/game/static/js/runtime-main.f1ecc9ea.js.map",
-    "static/js/2.c0958cef.chunk.js": "/game/static/js/2.c0958cef.chunk.js",
-    "static/js/2.c0958cef.chunk.js.map": "/game/static/js/2.c0958cef.chunk.js.map",
-    "index.html": "/game/index.html",
-    "precache-manifest.5b92b93ef9edae17d465e50c459fe5ce.js": "/game/precache-manifest.5b92b93ef9edae17d465e50c459fe5ce.js",
-    "service-worker.js": "/game/service-worker.js",
-    "static/css/main.46f521dc.chunk.css.map": "/game/static/css/main.46f521dc.chunk.css.map",
-    "static/js/2.c0958cef.chunk.js.LICENSE.txt": "/game/static/js/2.c0958cef.chunk.js.LICENSE.txt",
-    "static/media/dog.mp3": "/game/static/media/dog.ba5debab.mp3",
-    "static/media/index.css": "/game/static/media/duck-hunt-bg.de440e67.png",
-    "static/media/duck1.gif": "/game/static/media/duck1.d3547231.gif"
+    "main.css": "/game_dog/static/css/main.8d96832b.chunk.css",
+    "main.js": "/game_dog/static/js/main.a17bc01b.chunk.js",
+    "main.js.map": "/game_dog/static/js/main.a17bc01b.chunk.js.map",
+    "runtime-main.js": "/game_dog/static/js/runtime-main.5e99f4e1.js",
+    "runtime-main.js.map": "/game_dog/static/js/runtime-main.5e99f4e1.js.map",
+    "static/js/2.c0958cef.chunk.js": "/game_dog/static/js/2.c0958cef.chunk.js",
+    "static/js/2.c0958cef.chunk.js.map": "/game_dog/static/js/2.c0958cef.chunk.js.map",
+    "index.html": "/game_dog/index.html",
+    "precache-manifest.5b4b29d2e56389415e12b079b747c109.js": "/game_dog/precache-manifest.5b4b29d2e56389415e12b079b747c109.js",
+    "service-worker.js": "/game_dog/service-worker.js",
+    "static/css/main.8d96832b.chunk.css.map": "/game_dog/static/css/main.8d96832b.chunk.css.map",
+    "static/js/2.c0958cef.chunk.js.LICENSE.txt": "/game_dog/static/js/2.c0958cef.chunk.js.LICENSE.txt",
+    "static/media/dog.mp3": "/game_dog/static/media/dog.ba5debab.mp3",
+    "static/media/index.css": "/game_dog/static/media/duck-hunt-bg.de440e67.png",
+    "static/media/duck1.gif": "/game_dog/static/media/duck1.d3547231.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1ecc9ea.js",
+    "static/js/runtime-main.5e99f4e1.js",
     "static/js/2.c0958cef.chunk.js",
-    "static/css/main.46f521dc.chunk.css",
-    "static/js/main.e292a857.chunk.js"
+    "static/css/main.8d96832b.chunk.css",
+    "static/js/main.a17bc01b.chunk.js"
   ]
 }
